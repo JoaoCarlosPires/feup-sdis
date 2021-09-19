@@ -1,0 +1,22 @@
+<<<<<<< Updated upstream
+bin/*
+*.class
+out/*
+data/
+.log
+.idea
+*.iml
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+*.iml
+out
+*.class
+files
+build
+peers
+proj1/src/compile.bat
+src/compile.bat
+>>>>>>> Stashed changes

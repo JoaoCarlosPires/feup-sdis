@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+*.iml
+out
+*.class
+files
+build
+peers
+proj1/src/compile.bat
